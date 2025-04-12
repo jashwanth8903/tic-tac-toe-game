@@ -1,28 +1,47 @@
-<h1 align="center">TIC-TAC-TOE-GAME</h1>
+# Tic Tac Toe Game
 
+## Description
+A simple two-player Tic Tac Toe game built with React.js and styled using Sass CSS.
 
-## :rocket: Knowledges
- - `ReactJS`
- - `Framer Motion`
-
-## :book: How to use
-To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [ReactJS](https://react.dev/) installed on your computer. From your command line:
-
-```
-# Clone this repository
-$ git clone https://github.com/jashwanth8903/Tic-Tac-Toe-game.git
-
-# Go into the repository
-$ cd Tic-Tac-Toe-game
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
 ## :link: Demo
-  - <a target="_blank" href="https://jashwanth8903.github.io/Tic-Tac-Toe-game/"> Click Here </a> to see and play by yourself a demo of the game.
+  - <a target="_blank" href="https://jashwanth8903.github.io/TTT-game/"> Click Here </a> to see and play by yourself a demo of the game.
 
-## :mailbox: Contact
-  - <a target="_blank" href="jashuslv03@gmail.com">E-mail</a>
+## Features
+- Two-player gameplay
+- Checks for a winner or draw
+- Simple, responsive design
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/jashwanth8903/TTT-game.git
+    ```
+
+2. Navigate to the project folder:
+    ```bash
+    cd TTT-game
+    ```
+
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+4. Start the project:
+    ```bash
+    npm start
+    ```
+
+The game will be available at `http://localhost:3000/`.
+
+
+## Technologies Used
+- React.js
+- Sass
+
+## License
+This project is open-source and available under the MIT License.
+"""
+
+
